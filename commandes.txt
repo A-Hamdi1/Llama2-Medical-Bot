@@ -1,0 +1,7 @@
+.\venv\Scripts\activate.bat
+deactivate
+conda activate langchain
+python ingest.py
+chainlit run model.py -w
+
+What is Eczema?

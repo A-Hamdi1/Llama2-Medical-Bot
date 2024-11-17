@@ -1,0 +1,5 @@
+# Ignore the venv folder
+venv/
+
+# Ignore the specific model file
+llama-2-7b-chat.ggmlv3.q8_0.bin
